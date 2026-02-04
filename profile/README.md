@@ -14,18 +14,23 @@ Version 2.x.x has been recently submitted
 
 Tasks currently implemented
 
-temporal domain
+*temporal domain*
 
-Temporal Bisection
-Temporal interval discrimination
-Temporal binding
-Temporal Interval reproduction
-prediction
+- Temporal Bisection
+- Temporal interval discrimination
+- Temporal binding
+- Temporal Interval reproduction
 
-temporal Sequence prediction
-Time-to-contact
-and illusions
+*prediction*
 
-Double/Triple flash illusion
-figure/ground illusion
-External references ADO algorithms are granted by ADOpy package, a python package described in the work of https://doi.org/10.3758/s13428-020-01386-4 whom code can be found here: https://github.com/adopy/adopy Python engine, necessary to execute ADOpy code, was embedded in Android thanks to the Chaquopy SDK (https://chaquo.com/chaquopy)
+- temporal Sequence prediction
+- Time-to-contact
+
+*illusions*
+
+- Double/Triple flash illusion
+- figure/ground illusion
+ 
+
+External references
+ADO algorithms are granted by ADOpy package, a python package described in the work of https://doi.org/10.3758/s13428-020-01386-4 whom code can be found here: https://github.com/adopy/adopy Python engine, necessary to execute ADOpy code, was embedded in Android thanks to the Chaquopy SDK (https://chaquo.com/chaquopy)
