@@ -1,0 +1,36 @@
+PsySuite
+
+NOTICE
+
+Copyright (C) 2018–2026 Alberto Inuggi
+
+Project history
+
+PsySuite is a modular Android framework for implementing and running
+psychophysical experiments on smartphones and tablets.
+
+The original implementation of PsySuite was initiated during
+research and development activities carried out within the
+Unit for Visually Impaired People (U-VIP),
+Fondazione Istituto Italiano di Tecnologia (IIT),
+Genova, Italy (2018–2021).
+
+The current 2.x series results from substantial architectural
+redesign, refactoring, and continued development performed at:
+
+IRCCS Azienda Ospedaliera Metropolitana
+Genova, Italy (2022–2026).
+
+Author and developer: Alberto Inuggi
+
+Third-party software
+
+This repository may include third-party software components
+distributed under their own respective licenses.
+Refer to individual modules and dependency declarations
+for applicable terms.
+
+License
+
+This repository is distributed under the Apache License,
+Version 2.0.
