@@ -27,7 +27,7 @@ Presently, guest users can access a demo version of PsySuite shipped with three 
 You can download its APK here
 
 Otherwise you can pull all the necessary repositories, distributed with [Apache 2.0 Licence](https://github.com/psysuite/.github/blob/main/profile/LICENCE), and build PsySuite on your own.<br>
-Read the [instructions](https://github.com/psysuite/psysuite/) 
+Please, read the [instructions](https://github.com/psysuite/.github/blob/main/profile/how_to_build_psysuite.md) 
 
 
 **Collaborations**<br>
