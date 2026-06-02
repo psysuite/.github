@@ -13,7 +13,7 @@ PsySuite embed the following features:
 from version 2.x.x:
 
 - stimuli intensities are defined at run-time according to user responses, according to an adaptive design optimization (ADO) mechanism.
-- can send experiment results to a web application that allow researchers to access and download the uploaded data
+- can send experiment results to a [web application](https://github.com/psysuite/psysuite_web) that allow researchers to access and download the uploaded data
 <br>
 
 Version 1.x.x of the project was validated here: https://link.springer.com/article/10.3758/s13428-024-02475-4<br>
