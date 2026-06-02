@@ -28,7 +28,7 @@ You can download its APK [here](https://github.com/psysuite/psysuite/releases/do
 
 Otherwise you can pull all the necessary repositories, distributed with [Apache 2.0 Licence](https://github.com/psysuite/.github/blob/main/profile/LICENCE), and build PsySuite on your own.<br>
 Please, read the [instructions](https://github.com/psysuite/.github/blob/main/profile/how_to_build_psysuite.md)<br>
-To add new tasks you must know kotlin and the Android environment and it's not so difficult, read the [developer guide](https://github.com/psysuite/.github/blob/main/profile/PsySuite2_Developer_Guide.pdf) to understand how to do it.<br>
+To add new tasks you must know kotlin and the Android environment. Read the [developer guide](https://github.com/psysuite/.github/blob/main/profile/PsySuite2_Developer_Guide.pdf) to understand how to do it rapidly.<br>
 
 
 **Collaborations**<br>
