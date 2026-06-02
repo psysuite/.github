@@ -24,7 +24,7 @@ Presently, guest users can access a demo version of PsySuite shipped with three 
 - temporal bisection task (discriminating stimuli' onsets rather than durations) 
 - double flash illusion test
 
-You can download its APK [here](https://github.com/psysuite/psysuite/releases/download/DEMO_RELEASE/app-demo.apk)
+You can download its APK [here](https://github.com/psysuite/psysuite/releases/download/DEMO_RELEASE/app-demo.apk) and find its manual [here](https://github.com/psysuite/.github/blob/main/profile/PsySuite2_Developer_Guide.pdf).
 
 Otherwise you can pull all the necessary repositories, distributed with [Apache 2.0 Licence](https://github.com/psysuite/.github/blob/main/profile/LICENCE), and build PsySuite on your own.<br>
 Please, read the [instructions](https://github.com/psysuite/.github/blob/main/profile/how_to_build_psysuite.md)<br>
