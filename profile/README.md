@@ -1,13 +1,13 @@
-This is the official repository of PsySuite project, a smartphone-based framework for implementing psychophysical testing on Android devices.<br>
+This is the official repository of PsySuite 2.0 project, a smartphone-based framework for implementing psychophysical testing on Android devices.<br>
 
 The project was coded by Alberto Inuggi, biomedical engineer and Ph.D in experimental neurology<br>
-It was started when he was enrolled in the U-VIP laboratory, headed by Dott.sa Monica Gori in the Istituto Italiano di Tecnologia of Genoa.<br>
-The current 2.x version results from complete architectural redesign, refactoring, and development of new features performed when he moved to IRCCS Azienda Ospedaliera Metropolitana of Genova.
+Version 1.x of the project was validated here: https://link.springer.com/article/10.3758/s13428-024-02475-4<br>
+The 2.x version, is composed by a brand new application module that uses deeply re-engineered versions of PsySuite 1.0 library modules and a brand new library module implementing adaptive stimuli.<br>
 
 PsySuite embed the following features:
 
 - run psychophisics tasks by delivering multisensory (auditory, visual and tactile) stimuli. 
-- it contains a set of sensorial and cognitive tasks, exploring different domains.
+- contains a set of sensorial and cognitive tasks, exploring different domains.
 - speech recognition allows blind users to run auditory and tactile tasks.<br>
 
 from version 2.x.x:
@@ -16,8 +16,7 @@ from version 2.x.x:
 - can send experiment results to a [web application](https://github.com/psysuite/psysuite_web) that allow researchers to access and download the uploaded data
 <br>
 
-Version 1.x.x of the project was validated here: https://link.springer.com/article/10.3758/s13428-024-02475-4<br>
-Version 2.x.x has been recently submitted
+Version 2.x.x is currently under review in a scientific journal
 
 Presently, guest users can access a demo version of PsySuite shipped with three tasks:<br>
 - reaction times
