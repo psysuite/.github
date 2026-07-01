@@ -7,7 +7,7 @@ To build its APK, you need to pull the code from the following repository:<br>
 **[psysuite](https://github.com/psysuite/psysuite)**: Is the Application module, implementing the dynamic menu and managing settings, projects and results submission.<br>
 User must checkout the *demo_paper2* branch, that points to the library containing the tests of the demo version
 
-**[psysuitecore](https://github.com/psysuite/psysuitecore)**: This library module is the project's common framework, defining all the common resources and superclasses that each concrete task will override. To playback auditory stimuli, it uses an aar file that implements sound playback mechanisms using Oboe (https://github.com/google/oboe).<br>
+**[psysuitecore](https://github.com/psysuite/psysuitecore-public)**: This library module is the project's common framework, defining all the common resources and superclasses that each concrete task will override. To playback auditory stimuli, it uses an aar file that implements sound playback mechanisms using Oboe (https://github.com/google/oboe).<br>
 The source repository generating such file can be found here: https://github.com/albaspazio/nativeaudio
 
 **[psysuitests-demo](https://github.com/psysuite/psysuitetests-demo)**: This library module contains the implemented Tasks.
@@ -24,7 +24,7 @@ By default, at the level of the folder where you download psysuite repo, you sho
 - psysuite root  
 - modules  
     |  
-    |__  psysuitecore  
+    |__  psysuitecore-public  
     |  
     |__  psysuitetests_demo2  
     |  
